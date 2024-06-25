@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1719281416 source:c:\users\usuari\documents\trabalhos\ads\desktop\teste2\main.c
+	"cinema1.h"
+	"cinema2.h"
+	"cinema3.h"
+
+1719281405 c:\users\usuari\documents\trabalhos\ads\desktop\teste2\cinema1.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1719281399 c:\users\usuari\documents\trabalhos\ads\desktop\teste2\cinema2.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1719281389 c:\users\usuari\documents\trabalhos\ads\desktop\teste2\cinema3.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
